@@ -1,0 +1,20 @@
+{
+  "produits": [
+    {
+      "titre": "Ipad",
+      "prix": "100",
+      "quantite": "7",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "image": "blob:http://localhost:3000/9f7aeff5-abd6-4320-98dd-16a052c825a6",
+      "id": 6
+    },
+    {
+      "titre": "MAC",
+      "prix": "2000",
+      "quantite": "144",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "image": "blob:http://localhost:3000/8ae7710d-c1ad-491d-9f93-991bee18c7cc",
+      "id": 7
+    }
+  ]
+}

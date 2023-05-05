@@ -1,0 +1,35 @@
+.product-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.product-item{
+    border: 1px solid #ccc;
+    border-radius: 10px ;
+    padding: 20px;
+    margin: 20px ;
+   
+}
+.btn-add{
+    width: 60%;
+    border: none;
+    background-color: rgb(98, 111, 107) ;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.btn-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+.img-container{
+    border: 1px solid red;
+    display: flex;
+}

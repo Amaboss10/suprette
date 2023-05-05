@@ -1,0 +1,15 @@
+.header {
+    background-color: rgb(98, 111, 107);
+    height: 100px;
+}
+.logo{
+    float: left;
+    margin: 0px;
+    padding: 20px;
+    color: #fff;
+}
+.header button{
+    float: right;
+    margin: 25px;
+}
+
